@@ -1,6 +1,6 @@
 {
   "name": "space-pencil",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "SpacePen minus jQuery",
   "main": "lib/space-pencil.js",
   "scripts": {
