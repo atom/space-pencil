@@ -4,7 +4,8 @@
   "description": "SpacePen minus jQuery",
   "main": "lib/space-pencil.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "prepublish": "grunt clean lint coffee"
   },
   "repository": {
     "type": "git",
